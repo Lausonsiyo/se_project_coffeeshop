@@ -28,6 +28,7 @@
   border: 1px solid #838383;
   height: 60px;
   padding-left: 20px;
+  border-radius: 4px;
 }
 
 .form__input::placeholder {
