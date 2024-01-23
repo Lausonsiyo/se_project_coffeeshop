@@ -20,3 +20,5 @@ This project is website for The Coffee Shop, showcasing its products and service
 #Plans for future improving
 
 graph the products on the menu with images or gifs that show how they look, also add a timer or live alarm alerting how long time remains for your order to be ready or that your order is ready.
+
+https://lausonsiyo.github.io/se_project_coffeeshop/
